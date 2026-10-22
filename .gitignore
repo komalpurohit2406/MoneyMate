@@ -1,0 +1,5 @@
+db.php
+gemini_config.php
+.env
+.env.*
+!.env.example
